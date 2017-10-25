@@ -1,2 +1,0 @@
-# MagnificentBridge
-Magnificent Bridge
